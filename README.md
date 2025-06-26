@@ -22,4 +22,4 @@ Intermediate data stored locally during the code run for plotting purposes.
 
 ## Raw data file
 
-Mpox surveillance data published by the World Health Organization, as well as vector files needed for mapping the world.
+Mpox surveillance data published by the World Health Organization, as well as vector files needed for mapping the world. Note that the compressed file map.zip in this folder needs to be extracted to the current folder.
