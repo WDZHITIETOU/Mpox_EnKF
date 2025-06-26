@@ -20,6 +20,6 @@
 
 Intermediate data stored locally during the code run for plotting purposes.
 
-## Raw data
+## Raw data file
 
 Mpox surveillance data published by the World Health Organization, as well as vector files needed for mapping the world.
