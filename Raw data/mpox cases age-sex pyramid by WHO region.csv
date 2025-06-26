@@ -1,0 +1,69 @@
+sex,age_group,who_region_long,cases
+Male,0-9,European Region,14
+Male,0-9,Region of the Americas,178
+Male,0-9,South-East Asia Region,2
+Male,10-17,Eastern Mediterranean Region,2
+Male,10-17,European Region,56
+Male,10-17,Region of the Americas,259
+Male,10-17,South-East Asia Region,1
+Male,10-17,Western Pacific Region,8
+Male,18-29,Eastern Mediterranean Region,19
+Male,18-29,European Region,5537
+Male,18-29,Region of the Americas,16522
+Male,18-29,South-East Asia Region,278
+Male,18-29,Western Pacific Region,840
+Male,30-39,Eastern Mediterranean Region,28
+Male,30-39,European Region,10498
+Male,30-39,Region of the Americas,22964
+Male,30-39,South-East Asia Region,351
+Male,30-39,Western Pacific Region,1056
+Male,40-49,Eastern Mediterranean Region,6
+Male,40-49,European Region,6851
+Male,40-49,Region of the Americas,10264
+Male,40-49,South-East Asia Region,164
+Male,40-49,Western Pacific Region,372
+Male,50-59,Eastern Mediterranean Region,1
+Male,50-59,European Region,2614
+Male,50-59,Region of the Americas,3623
+Male,50-59,South-East Asia Region,27
+Male,50-59,Western Pacific Region,68
+Male,60-69,Eastern Mediterranean Region,1
+Male,60-69,European Region,633
+Male,60-69,Region of the Americas,667
+Male,60-69,South-East Asia Region,4
+Male,60-69,Western Pacific Region,10
+Male,70-79,European Region,70
+Male,70-79,Region of the Americas,78
+Male,70-79,Western Pacific Region,1
+Male,80+,European Region,10
+Male,80+,Region of the Americas,8
+Female,0-9,Eastern Mediterranean Region,2
+Female,0-9,European Region,12
+Female,0-9,Region of the Americas,134
+Female,0-9,South-East Asia Region,1
+Female,10-17,European Region,9
+Female,10-17,Region of the Americas,122
+Female,10-17,Western Pacific Region,1
+Female,18-29,Eastern Mediterranean Region,2
+Female,18-29,European Region,160
+Female,18-29,Region of the Americas,866
+Female,18-29,South-East Asia Region,17
+Female,18-29,Western Pacific Region,7
+Female,30-39,Eastern Mediterranean Region,2
+Female,30-39,European Region,137
+Female,30-39,Region of the Americas,612
+Female,30-39,South-East Asia Region,12
+Female,30-39,Western Pacific Region,3
+Female,40-49,European Region,91
+Female,40-49,Region of the Americas,374
+Female,40-49,South-East Asia Region,4
+Female,40-49,Western Pacific Region,2
+Female,50-59,European Region,22
+Female,50-59,Region of the Americas,165
+Female,60-69,European Region,6
+Female,60-69,Region of the Americas,44
+Female,60-69,South-East Asia Region,2
+Female,70-79,European Region,5
+Female,70-79,Region of the Americas,22
+Female,70-79,Western Pacific Region,1
+Female,80+,Region of the Americas,10
