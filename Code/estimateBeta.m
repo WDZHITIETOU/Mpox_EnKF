@@ -138,7 +138,7 @@ for i = 1:9
         hold on
         plot(datetime(2022,4,12):datetime(2023,2,15), meanR([index(2.*i-1) index(2.*i)],:), "LineWidth", 2);
         ylim([0 2])
-        ax.XAxis.TickLabelFormat = 'u/M';
+        ax.XAxis.TickLabelFormat = 'M/u';
         lgd = legend(name(2.*i-1), name(2.*i));
         lgd.AutoUpdate = "off";
         lgd.Box = "off";
@@ -168,7 +168,7 @@ for i = 1:9
         hold on
         plot(datetime(2022,4,12):datetime(2023,2,15), meanR(17,:), "LineWidth", 2);
         ylim([0 2])
-        ax.XAxis.TickLabelFormat = 'u/M';
+        ax.XAxis.TickLabelFormat = 'M/u';
         lgd = legend("R_{eff}");
         lgd.AutoUpdate = "off";
         lgd.Box = "off";
@@ -215,4 +215,5 @@ for i = 1:9
     h.FontName = "Times New Roman";
     h.FontSize = 18;
     h.Title = riqi(i);
+
 end
